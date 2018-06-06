@@ -1,0 +1,29 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:DenTool.lang" 
+                    xmlns:System="clr-namespace:System;assembly=mscorlib">
+    
+    <System:String x:Key="DenTool">DenTool</System:String>
+    <System:String x:Key="File">Fájl</System:String>
+    <System:String x:Key="Open">Megnyitás</System:String>
+    <System:String x:Key="OpenFilter">exe fájlok | *.exe</System:String>
+    <System:String x:Key="OpenTitle">Konfiguráció megnyitása</System:String>
+    <System:String x:Key="Exit">Kilépés</System:String>
+    <System:String x:Key="Language">Nyelv</System:String>
+    <System:String x:Key="English">Angol</System:String>
+    <System:String x:Key="Hungarian">Magyar</System:String>
+    <System:String x:Key="SQL_Settings">SQL Beállítások</System:String>
+    <System:String x:Key="Server">Szerver</System:String>
+    <System:String x:Key="Database">Adatbázis</System:String>
+    <System:String x:Key="Username">Felhasználónév</System:String>
+    <System:String x:Key="Password">Jelszó</System:String>
+    <System:String x:Key="SettingsDefault">A beállítások frissítéséhez nyomja meg a Teszt és a Mentés gombot.</System:String>
+    <System:String x:Key="Loaded">betöltve.</System:String>
+    <System:String x:Key="FileNotFound">fájl nem találva, használja a Megnyitást.</System:String>
+    <System:String x:Key="ExeInvalid">Érvénytelen exe fájl.</System:String>
+    <System:String x:Key="SettingsSaved">Beállítás elmentve.</System:String>
+    <System:String x:Key="TestSuccess">Kapcsolódás sikeres.</System:String>
+    <System:String x:Key="Test">Teszt</System:String>
+    <System:String x:Key="Save">Mentés</System:String>
+   
+</ResourceDictionary>
